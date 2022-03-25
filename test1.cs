@@ -10,7 +10,7 @@ namespace CrisXUnitTests
         public void Test1()
         {
             int val = 3;
-            Debug.Assert(val != 2, "Value should not be 2.");
+            Debug.Assert(val != 2, "Value should not be 3.");
         
         }
     }
